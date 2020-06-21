@@ -9,13 +9,14 @@ A Sport betting Mobile app built with ReactNative
 - Registration
 - Login 
 - Push Notification (configured for android only ... you can do it for IOS)
-- Seach for Games
+- Search for Games
 - Sports Events and odds
 - Slot/ Virtual Games
 - Live Games
 - Upcoming Games
 - Betslip
 - Odds Type Settings
+- Live event preview(Animation)
 - and more
 
 
