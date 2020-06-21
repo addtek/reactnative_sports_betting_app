@@ -1,0 +1,7 @@
+<resources>
+    <color name="white">#fff</color>
+    <color name="statuscolor">#0E7482</color>
+    <color name="primary_dark">#0E7482</color>
+    <color name="bg_color_light">#FFFFFF</color>
+    <color name="bg_color_dark">#1F3033</color>
+</resources>

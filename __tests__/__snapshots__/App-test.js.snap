@@ -1,0 +1,96 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "borderColor": "#d5d5da",
+        "borderLeftWidth": 1,
+        "borderStyle": "solid",
+        "display": "flex",
+        "flex": 1,
+        "flexDirection": "row",
+        "fontSize": 10,
+        "justifyContent": "center",
+        "position": "relative",
+      },
+    ]
+  }
+>
+  <View
+    accessible={true}
+    focusable={true}
+    isTVSelectable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignItems": "center",
+        "display": "flex",
+        "flex": 1,
+        "flexDirection": "row",
+        "justifyContent": "center",
+        "margin": 0,
+        "opacity": 1,
+        "padding": 0,
+        "paddingHorizontal": 0,
+        "paddingVertical": 0,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "color": "#0167e8",
+          "fontSize": 12,
+          "fontWeight": "700",
+        }
+      }
+    >
+      <Text
+        style={
+          Array [
+            Object {
+              "color": "#018da0",
+              "display": "flex",
+            },
+            undefined,
+          ]
+        }
+      >
+        2.00
+      </Text>
+    </View>
+  </View>
+  <Text
+    allowFontScaling={false}
+    style={
+      Array [
+        Object {
+          "color": undefined,
+          "fontSize": 20,
+        },
+        Object {
+          "color": "#dedee0",
+          "display": "none",
+        },
+        Object {
+          "fontFamily": "icomoon",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+        Object {},
+      ]
+    }
+  >
+    
+  </Text>
+</View>
+`;
