@@ -1,4 +1,0 @@
-# Referenced at /home/mcaddey/Desktop/android_ios_app-master/android/app/build/intermediates/merged_manifests/debug/arm64-v8a/AndroidManifest.xml:29
--keep class androidx.core.app.CoreComponentFactory { <init>(); }
-# Referenced at /home/mcaddey/Desktop/android_ios_app-master/android/app/build/intermediates/merged_manifests/debug/arm64-v8a/AndroidManifest.xml:29
--keep class com.addtek.sportsbook.MainApplication { <init>(); }
