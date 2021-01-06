@@ -17,7 +17,7 @@
     "@react-native-community/slider": "^2.0.9",
     "@react-navigation/bottom-tabs": "^5.2.6",
     "@react-navigation/native": "^5.1.5",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "immutable": "^4.0.0-rc.12",
     "jetifier": "^1.6.5",
     "moment": "^2.24.0",
