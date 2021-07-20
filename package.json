@@ -25,7 +25,7 @@
     "native-base": "^2.13.12",
     "prop-types": "^15.7.2",
     "react": "16.13.1",
-    "react-native": "0.62.1",
+    "react-native": "0.62.3",
     "react-native-device-info": "^5.5.4",
     "react-native-dialog": "^5.6.0",
     "react-native-elements": "^1.2.7",
